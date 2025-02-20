@@ -77,7 +77,7 @@ Me chamo Thiago, sou estudante de tecnologia e curso Análise e Desenvolvimento 
       align="left" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobcdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobcdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
 </p>
